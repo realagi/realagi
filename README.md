@@ -1,3 +1,4 @@
+###### https://community.airtable.com/t5/other-questions/export-all-airtable-data-including-files-keeping-file-lt-gt/td-p/179293
 ##### DEBUG TOOLS:
 ###### https://github.com/cordx56/rustowl
 ###### https://github.com/aidenybai/react-scan
