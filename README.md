@@ -1,5 +1,6 @@
 ###### WebDataOps: Website Operations: LIST_MATHEMATICAL_OPERATIONS_OVER_SITES - Cryto Data Analyzer Website Builder
-
+##### PRIMARY TEXT TRICKS EMPOREUN
+###### "forward token by token 'snake like' algorithnmic text to vector db's scafforld injestion"
 ###### https://airtable.com/appZ6B1cV4DUDgLeG/tblleytYNIgWkE22C/viwTNQqBS62a0xldr?blocks=hide
 ###### https://airtable.com/apptWU95XyTdOoiDs/tblBMniRipNgs8AWR/viw7fH2xNLEq2CvfR?blocks=hide
 ###### https://community.airtable.com/t5/other-questions/export-all-airtable-data-including-files-keeping-file-lt-gt/td-p/179293
