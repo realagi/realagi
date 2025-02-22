@@ -45,3 +45,14 @@
 
 
 ![cat_stroke_stroke_stroke](https://github.com/user-attachments/assets/c7d5c656-c57a-433f-87c6-521a54d5fb1f)
+
+###### Towards Singularity 1 Computer Operator
+###### Towards Singularity 2 Human Attachment
+###### Towards Singularity 3 FAB Replicator
+###### Towards Singularity 4 Nano1
+###### Towards Singularity 5 Qurantine Cages
+###### Towards Singularity 6 BioWorlds
+###### Towards Singularity 7 Extraction And Cleaning
+###### Towards Singularity 8 Rinse And Repeat; Discarding Planets
+###### Towards Singularity 9 Upwards Civilization Scale: Consuming Stars for Knowledge
+###### Towards Singularity N Protecting Human Succession
