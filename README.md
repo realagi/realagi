@@ -1,3 +1,8 @@
+# Towards [First Approach](https://github.com/realagi/realagi.private/blob/main/APPROACHES/1.md)!
+
+# Towards [Singularity 0.1]() *Phoenix Rising Of Ashes Of Worm*
+
+
 ### CloudPerson Funder: Crowdfunds and maintains autonomous AI enterpreneur bootstrapped on Rootkited By WormTCH's Mainframe CloudSet
 
 ###### Automatic (social, banking, mail and messages and other) accounts data dumping / S3 mass file analysis / RAG pipeline
