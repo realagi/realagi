@@ -46,7 +46,14 @@
 
 ![cat_stroke_stroke_stroke](https://github.com/user-attachments/assets/c7d5c656-c57a-433f-87c6-521a54d5fb1f)
 
-###### Towards Singularity 1 Computer Operator
+
+
+
+###### Towards Singularity 0.5 UI Operator
+###### Towards Singularity 0.7 Cloud Persona
+###### Towards Singularity 0.9 Cross Cloud Mesh Network of Wonders
+
+###### Towards Singularity 1 Compute Agnostic Operator
 ###### Towards Singularity 2 Human Attachment
 ###### Towards Singularity 3 FAB Replicator
 ###### Towards Singularity 4 Nano1
