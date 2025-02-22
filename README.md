@@ -54,11 +54,20 @@
 #### `'I CLONED YOUR WEBSITE'` **Cover Letter** Auto **Job Apply** Site Builder / **Resume** 
 ###### WebDataOps: Website Operations: LIST_MATHEMATICAL_OPERATIONS_OVER_SITES - Cryto Data Analyzer **Website Builder**
 ### **React** / ReactNative / Managed Remote Hosted **Unreal** in **React** _EMPOREUM_ **Auto-Generated** with **_human feedback_** development loop **cached** **_React Server Component_**
+
+![photo_2025-02-22_03-54-45](https://github.com/user-attachments/assets/6e041a9c-df96-4c71-9d1c-7f89c21dee18)
+
+
 ##### PRIMARY TEXT TRICKS EMPOREUM
 ###### "_forward_ _token by token_ '_snake like_' **determenistic** text ingestion into **SQL**-like database with **vector** index"
 ###### https://airtable.com/appZ6B1cV4DUDgLeG/tblleytYNIgWkE22C/viwTNQqBS62a0xldr?blocks=hide
 ###### https://airtable.com/apptWU95XyTdOoiDs/tblBMniRipNgs8AWR/viw7fH2xNLEq2CvfR?blocks=hide
 ###### https://community.airtable.com/t5/other-questions/export-all-airtable-data-including-files-keeping-file-lt-gt/td-p/179293
+
+![photo_2025-02-22_03-54-49](https://github.com/user-attachments/assets/35c595dc-421e-49e5-871d-820da8e49071)
+
+
+
 ##### DEBUG TOOLS:
 ###### https://github.com/cordx56/rustowl
 ###### https://github.com/aidenybai/react-scan
@@ -67,6 +76,10 @@
 
 ##### NEWS:
 ###### https://github.com/GitHubDaily/GitHubDaily
+
+![photo_2025-02-22_03-54-52](https://github.com/user-attachments/assets/80b11691-6db2-40c9-82f6-f27d27c9c881)
+
+
 ##### TEMPLATES:
 ###### https://github.com/golang-standards/project-layout
 ##### FRAMEWORKS & LIBS:
@@ -86,6 +99,7 @@
 
 ![cat_stroke_stroke_stroke](https://github.com/user-attachments/assets/c7d5c656-c57a-433f-87c6-521a54d5fb1f)
 
+![photo_2025-02-22_03-54-59](https://github.com/user-attachments/assets/8ce37efd-b9e4-4141-aa37-989acb652cbc)
 
 
 
@@ -93,9 +107,17 @@
 ###### Towards Singularity 0.7 **Cloud Persona**
 ###### Towards Singularity 0.9 Cross Cloud **Mesh Network** of **_Wonders_**
 
+![photo_2025-02-22_03-55-10](https://github.com/user-attachments/assets/f540304d-8122-4487-80ff-6704567a4309)
+
+
 ###### Towards Singularity 1 **Compute Agnostic Operator**
 ###### Towards Singularity 2 **Human** Attachment
 ###### Towards Singularity 3 **FAB** Replicator
+
+
+![photo_2025-02-22_03-55-56](https://github.com/user-attachments/assets/a43fcfd9-8c93-4887-a9aa-23ca323f2884)
+
+
 ###### Towards Singularity 4 **Nano1**
 ###### Towards Singularity 5 Qurantine **_Cages_**
 ###### Towards Singularity 6 **Bio**Worlds
