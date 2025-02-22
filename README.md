@@ -1,6 +1,13 @@
+<img width="614" alt="Screenshot 2025-02-22 at 3 51 08 AM" src="https://github.com/user-attachments/assets/2ee07d5f-0f3c-496f-bf36-8e77e92f95b1" />
+
+
 # Towards [First Approach](https://github.com/realagi/realagi.private/blob/main/APPROACHES/1.md)!
 
+<img width="662" alt="Screenshot 2025-02-22 at 3 49 59 AM" src="https://github.com/user-attachments/assets/d52575cf-14b7-4a4c-ab0e-3416b683da7c" />
+
 # Towards [Singularity 0.1]() *Phoenix Rising Of Ashes Of BookWorm*: **S3** to **Chatbot** Distillator
+
+<img width="625" alt="Screenshot 2025-02-22 at 3 50 29 AM" src="https://github.com/user-attachments/assets/0822afd0-1f2d-4b60-a1d8-c152d57e03b8" />
 
 ###### Mocked Linkedin
  - "apply to do work"
