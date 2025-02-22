@@ -3,9 +3,27 @@
 # Towards [Singularity 0.1]() *Phoenix Rising Of Ashes Of BookWorm*: **S3** to **Chatbot** Distillator
 
 ###### Mocked Linkedin
+ - "apply to do work"
 ###### Mocked Random Company Website
-###### Mocked Chime Desktop
-###### Mocked Coder Pad
+ - "utilize our services"
+###### Mocked Chime Desktop Human Face Talker
+ - "represent your brand"
+###### Mocked Collaborative Chat Coder Pad
+ - "build products with us"
+###### Mocked ProductHunt
+ - "discover personalized menagerie of products"
+###### Mocked CrowdFund
+ - "invest into linked content"
+###### Mocked NavalCertificationSite
+ - "verify PDF against standard" SaaS
+###### Mocked AerialCertificationSite
+ - "recieve PDF for watching Online Courses SaaS videos"
+###### Mocked CyberCertificationSite
+ - "hack U.S. Navy ship in global RTS game"
+###### Mocked CyberPenetrationServicesSite
+ - "order extensive security testing of your vessels and facilities"
+###### Mocked CyberCryptoContractServicesSite
+ - "order audit of contracts and documents"
 
 
 ### CloudPerson Funder: Crowdfunds and maintains autonomous AI enterpreneur bootstrapped on Rootkited By WormTCH's Mainframe CloudSet
