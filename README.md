@@ -2,6 +2,11 @@
 
 # Towards [Singularity 0.1]() *Phoenix Rising Of Ashes Of BookWorm*: **S3** to **Chatbot** Distillator
 
+###### Mocked Linkedin
+###### Mocked Random Company Website
+###### Mocked Chime Desktop
+###### Mocked Coder Pad
+
 
 ### CloudPerson Funder: Crowdfunds and maintains autonomous AI enterpreneur bootstrapped on Rootkited By WormTCH's Mainframe CloudSet
 
