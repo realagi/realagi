@@ -1,21 +1,21 @@
 # Towards [First Approach](https://github.com/realagi/realagi.private/blob/main/APPROACHES/1.md)!
 
-# Towards [Singularity 0.1]() *Phoenix Rising Of Ashes Of BookWorm*: S3 to Chatbot Distillator
+# Towards [Singularity 0.1]() *Phoenix Rising Of Ashes Of BookWorm*: **S3** to **Chatbot** Distillator
 
 
 ### CloudPerson Funder: Crowdfunds and maintains autonomous AI enterpreneur bootstrapped on Rootkited By WormTCH's Mainframe CloudSet
 
-###### Automatic (social, banking, mail and messages and other) accounts data dumping / S3 mass file analysis / RAG pipeline
+###### Automatic (social, banking, mail and messages and other) accounts data dumping / **S3** mass file analysis / **RAG** pipeline
 
-##### ...Semantic literary context cross-domain encapsulation: (cyber)(security)(policy)(violation)(context)(model)(execution space)(angent) rhethorical device for Agents, Prompts, Fine-Tuning, Training, Model Distillation, (AI Guardrails, Chains and Cages; Curses, Vials, Treasures, Cards and Chess Pieces in Seed Network of Default Worlds)
+##### ...**Semantic** _literary_ context cross-domain **_encapsulation_**: (cyber)(security)(policy)(violation)(context)(model)(execution space)(angent) rhethorical device for Agents, **Prompts**, Fine-Tuning, Training, Model Distillation, (**AI Guardrails**, Chains and **Cages**; **Curses**, **Vials**, Treasures, **Cards** and **Chess Pieces** in _Seed Network of Default Worlds_)
 ###### FoundInDumpsUserUsagePatternRepetitorQuineWorm
-##### ConversationFinder (TaxJobRefundGrantApplier)
-###### File dump => World <=> Model Data Policy Art Fiction Branding Simulation Software Decompositor
-#### 'I CLONED YOUR WEBSITE' Cover Letter Auto Job Apply Site Builder / Resume 
-###### WebDataOps: Website Operations: LIST_MATHEMATICAL_OPERATIONS_OVER_SITES - Cryto Data Analyzer Website Builder
-### React / ReactNative / Managed Remote Hosted Unreal in React EMPOREUM Auto-Generated with human feedback development loop cached React Server Component
+##### **ConversationFinder** (TaxJobRefundGrantApplier)
+###### File dump => **World** <=> **Model** Data **Policy** **Art** Fiction **Branding** **Simulation** Software Decompositor
+#### `'I CLONED YOUR WEBSITE'` **Cover Letter** Auto **Job Apply** Site Builder / **Resume** 
+###### WebDataOps: Website Operations: LIST_MATHEMATICAL_OPERATIONS_OVER_SITES - Cryto Data Analyzer **Website Builder**
+### **React** / ReactNative / Managed Remote Hosted **Unreal** in **React** _EMPOREUM_ **Auto-Generated** with **_human feedback_** development loop **cached** **_React Server Component_**
 ##### PRIMARY TEXT TRICKS EMPOREUM
-###### "forward token by token 'snake like' determenistic text ingestion into SQL-like database with vector index"
+###### "_forward_ _token by token_ '_snake like_' **determenistic** text ingestion into **SQL**-like database with **vector** index"
 ###### https://airtable.com/appZ6B1cV4DUDgLeG/tblleytYNIgWkE22C/viwTNQqBS62a0xldr?blocks=hide
 ###### https://airtable.com/apptWU95XyTdOoiDs/tblBMniRipNgs8AWR/viw7fH2xNLEq2CvfR?blocks=hide
 ###### https://community.airtable.com/t5/other-questions/export-all-airtable-data-including-files-keeping-file-lt-gt/td-p/179293
@@ -49,17 +49,17 @@
 
 
 
-###### Towards Singularity 0.5 UI Operator
-###### Towards Singularity 0.7 Cloud Persona
-###### Towards Singularity 0.9 Cross Cloud Mesh Network of Wonders
+###### Towards Singularity 0.5 **UI Operator**
+###### Towards Singularity 0.7 **Cloud Persona**
+###### Towards Singularity 0.9 Cross Cloud **Mesh Network** of **_Wonders_**
 
-###### Towards Singularity 1 Compute Agnostic Operator
-###### Towards Singularity 2 Human Attachment
-###### Towards Singularity 3 FAB Replicator
-###### Towards Singularity 4 Nano1
-###### Towards Singularity 5 Qurantine Cages
-###### Towards Singularity 6 BioWorlds
+###### Towards Singularity 1 **Compute Agnostic Operator**
+###### Towards Singularity 2 **Human** Attachment
+###### Towards Singularity 3 **FAB** Replicator
+###### Towards Singularity 4 **Nano1**
+###### Towards Singularity 5 Qurantine **_Cages_**
+###### Towards Singularity 6 **Bio**Worlds
 ###### Towards Singularity 7 Extraction And Cleaning
-###### Towards Singularity 8 Rinse And Repeat; Discarding Planets
-###### Towards Singularity 9 Upwards Civilization Scale: Consuming Stars for Knowledge
-###### Towards Singularity N Protecting Human Succession
+###### Towards Singularity 8 Rinse And Repeat; **Discarding** Planets
+###### Towards Singularity 9 Upwards Civilization Scale: **Consuming** Stars for **Knowledge**
+###### Towards Singularity N Protecting **Human** Succession
