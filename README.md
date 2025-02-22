@@ -1,6 +1,6 @@
 # Towards [First Approach](https://github.com/realagi/realagi.private/blob/main/APPROACHES/1.md)!
 
-# Towards [Singularity 0.1]() *Phoenix Rising Of Ashes Of Worm*
+# Towards [Singularity 0.1]() *Phoenix Rising Of Ashes Of BookWorm*: S3 to Chatbot Distillator
 
 
 ### CloudPerson Funder: Crowdfunds and maintains autonomous AI enterpreneur bootstrapped on Rootkited By WormTCH's Mainframe CloudSet
