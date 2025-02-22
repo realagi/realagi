@@ -7,7 +7,6 @@
 
 # Towards [Singularity 0.1]() *Phoenix Rising Of Ashes Of BookWorm*: **S3** to **Chatbot** Distillator
 
-<img width="625" alt="Screenshot 2025-02-22 at 3 50 29 AM" src="https://github.com/user-attachments/assets/0822afd0-1f2d-4b60-a1d8-c152d57e03b8" />
 
 ###### Mocked Linkedin
  - "apply to do work"
@@ -17,6 +16,10 @@
  - "represent your brand"
 ###### Mocked Collaborative Chat Coder Pad
  - "build products with us"
+ - 
+<img width="683" alt="Screenshot 2025-02-22 at 3 53 23 AM" src="https://github.com/user-attachments/assets/a4c8820c-4852-495e-af4d-ecd73e78e07b" />
+
+
 ###### Mocked ProductHunt
  - "discover personalized menagerie of products"
 ###### Mocked CrowdFund
@@ -34,6 +37,10 @@
  - "order extensive security testing of your vessels and facilities"
 ###### Mocked CyberCryptoContractServicesSite
  - "order audit of contracts and documents"
+
+
+
+<img width="625" alt="Screenshot 2025-02-22 at 3 50 29 AM" src="https://github.com/user-attachments/assets/0822afd0-1f2d-4b60-a1d8-c152d57e03b8" />
 
 
 ### CloudPerson Funder: Crowdfunds and maintains autonomous AI enterpreneur bootstrapped on Rootkited By WormTCH's Mainframe CloudSet
