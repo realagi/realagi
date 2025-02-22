@@ -1,3 +1,5 @@
+###### Automatic (social, banking, mail and messages and other) accounts data dumping / S3 mass file analysis / RAG pipeline
+
 ##### ...Semantic literary context cross-domain encapsulation: (cyber)(security)(policy)(violation)(context)(model)(execution space)(angent) rhethorical device for Agents, Prompts, Fine-Tuning, Training, Model Distillation, (AI Guardrails, Chains and Cages; Curses, Vials, Treasures, Cards and Chess Pieces in Seed Network of Default Worlds)
 ###### FoundInDumpsUserUsagePatternRepetitorQuineWorm
 ##### ConversationFinder (TaxJobRefundGrantApplier)
