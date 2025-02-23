@@ -1,3 +1,6 @@
+[<img width="318" alt="Screenshot 2025-02-23 at 11 50 31 AM" src="https://github.com/user-attachments/assets/636b4efa-93d8-494a-9618-65eddb0d276d" />](https://gist.github.com/realagi/e8c45c69252610b29d3a827878057b9a)
+
+
 [<img width="614" alt="Screenshot 2025-02-22 at 3 51 08 AM" src="https://github.com/user-attachments/assets/2ee07d5f-0f3c-496f-bf36-8e77e92f95b1" />
 ](https://us-east-2.console.aws.amazon.com/s3/object/product-screencasts?region=us-east-2&bucketType=general&prefix=Screen+Recording+2025-02-23+at+11.04.17%E2%80%AFAM.mov)
 
