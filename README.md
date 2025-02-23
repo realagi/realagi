@@ -1,7 +1,5 @@
 
-<img width="543" alt="Screenshot 2025-02-23 at 12 51 46 PM" src="https://github.com/user-attachments/assets/3d18c31e-0d06-4b2f-bfec-1545899d9f50" />
-
-[<img width="416" alt="Screenshot 2025-02-23 at 1 27 12 PM" src="https://gist.github.com/user-attachments/assets/8fae47f7-f9a5-4ac5-84d0-684de2e1bffa" />](https://gist.github.com/realagi/1c6222b89fe27c88cff16566cb372c70)
+<img width="543" alt="Screenshot 2025-02-23 at 12 51 46 PM" src="https://github.com/user-attachments/assets/3d18c31e-0d06-4b2f-bfec-1545899d9f50" /> [<img width="416" alt="Screenshot 2025-02-23 at 1 27 12 PM" src="https://gist.github.com/user-attachments/assets/8fae47f7-f9a5-4ac5-84d0-684de2e1bffa">](https://gist.github.com/realagi/1c6222b89fe27c88cff16566cb372c70)
 
 
 
