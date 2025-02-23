@@ -1,6 +1,7 @@
 
 ###### Founational Quine Model Training And Auditors Certification Association
 <img width="492" alt="Screenshot 2025-02-23 at 12 36 16 PM" src="https://github.com/user-attachments/assets/5142bb28-0d5a-4c2b-b88d-f52f2fe4622d" />
+
 ###### Founational Quine Model Weights Guardianship Org
 ###### Founational Quine Model Toolkit Open Source Foundation
 
