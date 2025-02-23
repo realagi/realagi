@@ -50,6 +50,12 @@
 ##### ...**Semantic** _literary_ context cross-domain **_encapsulation_**: (cyber)(security)(policy)(violation)(context)(model)(execution space)(angent) rhethorical device for Agents, **Prompts**, Fine-Tuning, Training, Model Distillation, (**AI Guardrails**, Chains and **Cages**; **Curses**, **Vials**, Treasures, **Cards** and **Chess Pieces** in _Seed Network of Default Worlds_)
 ###### FoundInDumpsUserUsagePatternRepetitorQuineWorm
 ##### **ConversationFinder** (TaxJobRefundGrantApplier)
+
+
+<img width="980" alt="Screenshot 2025-02-22 at 10 53 33 AM" src="https://github.com/user-attachments/assets/c4e8b2e3-981c-4807-8f16-5890e77d0fd1" />
+
+
+
 ###### File dump => **World** <=> **Model** Data **Policy** **Art** Fiction **Branding** **Simulation** Software Decompositor
 #### `'I CLONED YOUR WEBSITE'` **Cover Letter** Auto **Job Apply** Site Builder / **Resume** 
 ###### WebDataOps: Website Operations: LIST_MATHEMATICAL_OPERATIONS_OVER_SITES - Cryto Data Analyzer **Website Builder**
@@ -121,7 +127,17 @@
 ###### Towards Singularity 4 **Nano1**
 ###### Towards Singularity 5 Qurantine **_Cages_**
 ###### Towards Singularity 6 **Bio**Worlds
+
+![photo_2025-02-22_21-21-21](https://github.com/user-attachments/assets/426bf4c1-1528-4c0d-ab05-dbf7f59756d2)
+
+
+
 ###### Towards Singularity 7 Extraction And Cleaning
+
+
+![photo_2025-02-22_17-45-15](https://github.com/user-attachments/assets/dee31517-8779-41fe-b490-b170d8c20d06)
+
+
 ###### Towards Singularity 8 Rinse And Repeat; **Discarding** Planets
 ###### Towards Singularity 9 Upwards Civilization Scale: **Consuming** Stars for **Knowledge**
 ###### Towards Singularity N Protecting **Human** Succession
