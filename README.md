@@ -182,35 +182,25 @@
 
 ###### Towards Singularity 0.5 **UI Operator**
 ###### Towards Singularity 0.7 **Cloud Persona**
-###### Towards Singularity 0.9 Cross Cloud **Mesh Network** of **_Wonders_**
+###### Towards Singularity 0.9 Cross Cloud **Mesh Network**
 
 ![photo_2025-02-22_03-55-10](https://github.com/user-attachments/assets/f540304d-8122-4487-80ff-6704567a4309)
 
 
 ###### Towards Singularity 1 **Compute Agnostic Operator**
-###### Towards Singularity 2 **Human** Attachment
+
 ###### Towards Singularity 3 **FAB** Replicator
 
 
 ![photo_2025-02-22_03-55-56](https://github.com/user-attachments/assets/a43fcfd9-8c93-4887-a9aa-23ca323f2884)
 
 
-###### Towards Singularity 4 **Nano1**
-###### Towards Singularity 5 Qurantine **_Cages_**
-###### Towards Singularity 6 **Bio**Worlds
 
 ![photo_2025-02-22_21-21-21](https://github.com/user-attachments/assets/426bf4c1-1528-4c0d-ab05-dbf7f59756d2)
 
 
 
-###### Towards Singularity 7 Extraction And Cleaning
 
 
 ![photo_2025-02-22_17-45-15](https://github.com/user-attachments/assets/dee31517-8779-41fe-b490-b170d8c20d06)
-
-
-###### Towards Singularity 8 Rinse And Repeat; **Discarding** Planets
-###### Towards Singularity 9 Upwards Civilization Scale: **Consuming** Stars for **Knowledge**
-###### Towards Singularity N Protecting **Human** Succession
-
 
