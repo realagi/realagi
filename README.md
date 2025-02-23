@@ -1,3 +1,6 @@
+<img width="559" alt="Screenshot 2025-02-23 at 12 50 39 PM" src="https://github.com/user-attachments/assets/6bf140eb-24d7-45e6-a15c-256ae8aab530" />
+
+
 
 ###### Foundational Quine Model Training And Auditors Certification Association
 <img width="492" alt="Screenshot 2025-02-23 at 12 36 16 PM" src="https://github.com/user-attachments/assets/5142bb28-0d5a-4c2b-b88d-f52f2fe4622d" />
