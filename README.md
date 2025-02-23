@@ -16,7 +16,7 @@
 <img width="492" alt="Screenshot 2025-02-23 at 12 36 16 PM" src="https://github.com/user-attachments/assets/5142bb28-0d5a-4c2b-b88d-f52f2fe4622d" />
 
 ##### Foundational Quine Model Weights Guardianship Org
-### Foundational Quine Model Toolkit Open Source Foundation
+### Foundational [Quine](https://gist.github.com/realagi/e8c45c69252610b29d3a827878057b9a) Model Toolkit Open Source Foundation
 
 
 
