@@ -1,3 +1,4 @@
+<!-- Annotated: This README mainly contains screenshots and visual references. -->
 
 <img width="1033" alt="Screenshot 2025-03-03 at 4 30 01 PM" src="https://github.com/user-attachments/assets/0810b6b1-3c85-4648-8790-0e9452ec25e2" />
 
