@@ -1,0 +1,20 @@
+name: Devplan to Codex Prompt
+
+on:
+  push:
+    paths:
+      - 'docs/devplans/devplan.nextsteps.md'
+  workflow_dispatch:
+
+jobs:
+  prompt:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Generate Codex prompt
+        run: python scripts/devplan_to_codex_prompt.py
+      - name: Upload prompt
+        uses: actions/upload-artifact@v4
+        with:
+          name: codex-prompt
+          path: codex_prompt.txt

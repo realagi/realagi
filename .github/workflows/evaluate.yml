@@ -1,0 +1,41 @@
+name: Evaluate Website
+
+on:
+  workflow_run:
+    workflows: ["Build and Deploy Website"]
+    types:
+      - completed
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  evaluate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+      - name: Install dependencies
+        run: |
+          pip install openhands || echo 'OpenHands install failed'
+          pip install playwright
+          playwright install chromium
+      - name: Run evaluation
+        env:
+          WEBSITE_URL: https://realagi.github.io/realagi/
+        run: python scripts/evaluate_site.py
+      - name: Commit devplan
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+          git add docs/devplans/devplan.nextsteps.md
+          git commit -m "chore: update devplan" || echo 'no changes'
+          git push
